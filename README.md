@@ -1,6 +1,6 @@
 # 🤖 Building Agentic AI Systems
 
-Personal learning repository from the **Building AI Agents** program — SDAIA 2025
+Personal learning repository from the **Building AI Agents** program — SDAIA 2026
 
 ---
 
